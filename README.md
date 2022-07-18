@@ -1,9 +1,10 @@
 # Blockchain-TodoList
+This is a todo list application created in Solidity, the simple task management application which use solidity as a smart contract creating language, truffle as a development enviornment and ganache as a personal Ethereum blockchain.
 
-#How to run this project:
+## How to Run:
 
 ## Step 1: 
-Software installation: </br>
+Install the required Software: </br>
 i. Node js </br>
 ii. MetaMask Extension </br>
 iii. Ganache </br>
